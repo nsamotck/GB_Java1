@@ -24,9 +24,8 @@ public class Lesson1 {
 
     //Задание №4
     public static boolean checkRange(int a, int b) {
-        if ((a + b) >= 10 && (a + b) <= 20) {
-            return true;
-        } else return false;
+        int sum = a + b;
+        return sum >= 10 && sum <= 20;
     }
 
     //Задание №5
