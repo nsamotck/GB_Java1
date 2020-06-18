@@ -1,0 +1,3 @@
+For this reason, this chapter presents a quick overview of several key features of Java. The material described here will
+give you a foothold that will allow you to write and understand simple programs. Most of
+the topics discussed will be examined in greater detail in the remaining chapters of Part I.

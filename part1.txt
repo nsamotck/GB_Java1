@@ -1,0 +1,4 @@
+As in all other computer languages, the elements of Java do not exist in isolation. Rather,
+they work together to form the language as a whole. However, this interrelatedness can
+make it difficult to describe one aspect of Java without involving several others. Often a
+discussion of one feature implies prior knowledge of another.
